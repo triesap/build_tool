@@ -1,0 +1,1 @@
+[build] aarch64-apple-darwin target/aarch64-apple-darwin/release/radroots_tool-0.0.1-aarch64-apple-darwin.tar.gz 67824e8855ccb67cebb0ca5e3a4bab7063be1548
